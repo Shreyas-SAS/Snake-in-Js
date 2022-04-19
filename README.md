@@ -2,7 +2,7 @@
 Javascript coded game playable in browser.
 
 This is a basic Javascript coded snake game that has the goal to eat the maximum number of food without biting your tail.<br>
-eevery time you eat a food block your length increases by 1.
+every time you eat a food block your length increases by 1.
 
 ---
 
